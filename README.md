@@ -1,6 +1,9 @@
 # Interactive-Excel-Dashboard-for-Inventory-and-Sales-Analytics
 This interactive Excel dashboard provides a comprehensive view of inventory and sales performance for a grocery business. It combines data visualization, automated KPI tracking, and dynamic slicers to deliver real-time insights into product movement, warehouse efficiency, and stock health. Designed to support data-driven decision-making, this dashboard highlights key operational metrics, identifies fast-moving products, and detects potential stock shortages before they affect sales.
 
+# Data Source
+Kaggle - Grocery Inventory Dataset by Willian Oliveira
+
 ## Key Features
 
 - **Dynamic KPIs**
@@ -25,10 +28,13 @@ This interactive Excel dashboard provides a comprehensive view of inventory and 
 - **Automated Calculations**
   1. Smart formulas using COUNTIFS, SUMIFS, and AVERAGEIFS for KPI automation.
   2. Conditional formatting and dynamic icons for instant stock health insights.
- 
-  ## Business Insights Delivered
-     1. Enables quick identification of low-stock and high-performing items.
-     2. Supports better inventory planning and purchase decisions.
-     3. Provides an at-a-glance understanding of sales and warehouse efficiency.
-     4. Improves stock control and reduces product wastage or expiry risk.
+
+## Dashboard Overview
+![](https://github.com/Winner-Dimiri/Interactive-Excel-Dashboard-for-Inventory-and-Sales-Analytics/blob/main/Excel%20Inventory%20and%20Sales%20Analytics%20Dashboard.png)
+
+## Business Insights Delivered
+   1. Enables quick identification of low-stock and high-performing items.
+   2. Supports better inventory planning and purchase decisions.
+   3. Provides an at-a-glance understanding of sales and warehouse efficiency.
+   4. Improves stock control and reduces product wastage or expiry risk.
   
