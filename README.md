@@ -32,7 +32,7 @@ Kaggle - Grocery Inventory Dataset by Willian Oliveira
 ## Dashboard Overview
 ![](https://github.com/Winner-Dimiri/Interactive-Excel-Dashboard-for-Inventory-and-Sales-Analytics/blob/main/Inventory%20and%20Sales%20Analytics%20Dashboard.png)
 
-**Live Dashboard:** [View in Excel](https://1drv.ms/x/c/173f0ecc2efbcec5/EZ_hmG1lU0dOnooR4RfETSUB9y_Fcl0bEPGC1pixgoRtQw?e=c8R7Pa)
+**Live Dashboard:** [View in Excel](https://1drv.ms/x/c/173f0ecc2efbcec5/EZ_hmG1lU0dOnooR4RfETSUB9y_Fcl0bEPGC1pixgoRtQw?e=YLbN2B)
 
 ## Business Insights Delivered
    1. Enables quick identification of low-stock and high-performing items.
